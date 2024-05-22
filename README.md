@@ -41,8 +41,8 @@ TradingPostApp is a decentralized marketplace application built with React Nativ
    ```bash
 
    ```
-2. git clone https://github.com/yourusername/tradingpostapp.git
-3. cd tradingpostapp
+2. git clone https://github.com/yourusername/TradingPostApp.git
+3. cd TradingPostApp
 4. npm install
 5. npx expo start
 
